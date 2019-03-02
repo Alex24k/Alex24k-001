@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+#  线性表插入
 list = [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, None, None]
 
 
@@ -12,5 +14,3 @@ def insert(src, index, value):
 
 list1 = insert(list, 7, 8)
 print(list1)
-
-print("20" < "100")
